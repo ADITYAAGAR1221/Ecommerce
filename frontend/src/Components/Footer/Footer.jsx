@@ -18,7 +18,7 @@ const Footer = () => {
             <li>About</li>
             <li>Contact</li>
         </ul>
-        <p className = "myname"> created by ADITYA AGARWAL </p>
+        <p className = "myname"> Created by ADITYA AGARWAL </p>
         <div className="footer-social-icon">
             <div className="footer-icons-container">
                 <img src={instagram_icon} alt=""/>
