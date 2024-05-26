@@ -18,6 +18,7 @@ const Footer = () => {
             <li>About</li>
             <li>Contact</li>
         </ul>
+        <p className = "myname"> Created by ADITYA AGARWAL </p>
         <div className="footer-social-icon">
             <div className="footer-icons-container">
                 <img src={instagram_icon} alt=""/>
@@ -31,7 +32,7 @@ const Footer = () => {
         </div>
         <div className="footer-copyright">
             <hr/>
-            <p>Copyright @ 2024 - All Right Reserved</p>
+            <p>Copyright_adityaagar1221@ 2024 - All Right Reserved</p>
         </div>
     </div>
   )
